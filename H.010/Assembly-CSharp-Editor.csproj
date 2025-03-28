@@ -61,7 +61,19 @@
     <Analyzer Include="D:\งาน\Unity Hub\6000.0.42f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshLinkTests.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\DomainReloadTestBase.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\Inspectors\NavMeshLinkInspectorTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshLinkInPrefabTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\Converter\OffMeshLinkConverterTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshModifierTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshLinkUpgradeInPrefabTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshLinkEditorTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\Converter\NavMeshConverterTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavigationPresenceInMenus.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\NavMeshLinkUpgradeTests.cs" />
+    <Compile Include="Library\PackageCache\com.unity.ai.navigation@c74b2724ed42\Tests\Editor\InspectorWindowWrapper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
